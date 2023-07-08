@@ -1,1 +1,1 @@
-# scott-materials.github.io
+# intromatsci
